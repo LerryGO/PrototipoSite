@@ -1,0 +1,25 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    margin: 10px;
+    font-size: 5ch;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: wavy;
+    color: white;
+}
+.conteudo{
+    position:  relative;
+    height: 80%;
+    width: 70%;
+    border: 2px solid black;
+    padding: 30px;
+    background-color: white;
+    margin: auto;
+    border-radius: 30px;
+}
+section{
+    background-color: #444;
+    padding: 10px 0;
+}

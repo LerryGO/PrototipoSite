@@ -1,0 +1,47 @@
+.titulo{
+    color: white;
+    text-align: left;
+    width: 30%;
+    height: auto;
+    padding: 2px;
+    background-image: linear-gradient(to right, red, white);
+    border-radius: 5px;
+}
+
+section{
+    background-color: #444;
+    padding: 10px 0;
+}
+.card{
+    display: inline-block;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.produtos{
+    position: relative;
+    margin: auto;
+    text-align: center;
+    max-width: 90%;
+    background-color: white;
+}
+
+
+.card-img-top{
+    max-width: 200px ;
+    max-height: 200px;
+}
+
+H2{
+    text-align: center;
+    text-decoration: double;
+}
+
+.promocao, .alta{
+    border-top: 2px solid #4444;
+    border-width: 50%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
